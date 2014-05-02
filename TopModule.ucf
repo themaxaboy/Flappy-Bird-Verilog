@@ -1,0 +1,11 @@
+NET "Clk" LOC = "p127";
+NET "Button" LOC = "p44";
+//NET "RawButton" LOC = "p93";
+NET "Speaker" LOC = "p125";
+NET "Reset" LOC = "p46";
+NET "vga_R" LOC = "p80";
+NET "vga_G" LOC = "p83";
+NET "vga_B" LOC = "p85";
+NET "vga_h_sync" LOC = "p87";
+NET "vga_v_sync" LOC = "p90";
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;

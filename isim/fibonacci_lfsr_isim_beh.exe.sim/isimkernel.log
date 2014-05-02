@@ -1,0 +1,28 @@
+Command line:
+   fibonacci_lfsr_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51490
+
+Thu Apr 24 01:46:25 2014
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 382.812 Meg
+
+ Total Signals          : 16
+ Total Nets             : 21
+ Total Signal Drivers   : 7
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 9
+ Total Traceable Variables  : 19
+ Total Scalar Nets and Variables : 106
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 382.812 Meg
+
+Thu Apr 24 01:46:40 2014
+

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/LFSR_isim_beh.exe" -prj "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/LFSR_beh.prj" "work.LFSR" "work.glbl" 

@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/xst"
+elaborate
+-ifn VGAOut.prj
+-ifmt mixed

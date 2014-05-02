@@ -1,0 +1,19 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Wed Apr 30 00:41:52 2014
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "Clk" LOCATE = SITE "P127" LEVEL 1;
+PIN Clk_pin<0> = BEL "Clk" PINNAME PAD;
+PIN "Clk_pin<0>" CLOCK_DEDICATED_ROUTE = FALSE;
+COMP "vga_h_sync" LOCATE = SITE "P87" LEVEL 1;
+COMP "Speaker" LOCATE = SITE "P125" LEVEL 1;
+COMP "vga_v_sync" LOCATE = SITE "P90" LEVEL 1;
+COMP "Reset" LOCATE = SITE "P46" LEVEL 1;
+COMP "vga_B" LOCATE = SITE "P85" LEVEL 1;
+COMP "vga_G" LOCATE = SITE "P83" LEVEL 1;
+COMP "vga_R" LOCATE = SITE "P80" LEVEL 1;
+COMP "Button" LOCATE = SITE "P44" LEVEL 1;
+NET "Clk_BUFGP/IBUFG" BEL "Clk_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

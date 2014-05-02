@@ -1,0 +1,1387 @@
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.xst" -ofn "C:/Users/Themaxaboy/Documents/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 
+xst -intstyle ise -ifn "F:/Xilinx/FinalProject/TopModule.xst" -ofn "F:/Xilinx/FinalProject/TopModule.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc TopModule.ucf -p xc3s400-tq144-4 TopModule.ngc TopModule.ngd  
+map -intstyle ise -p xc3s400-tq144-4 -cm area -ir off -pr off -c 100 -o TopModule_map.ncd TopModule.ngd TopModule.pcf 
+par -w -intstyle ise -ol high -t 1 TopModule_map.ncd TopModule.ncd TopModule.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml TopModule.twx TopModule.ncd -o TopModule.twr TopModule.pcf -ucf TopModule.ucf 
+bitgen -intstyle ise -f TopModule.ut TopModule.ncd 

@@ -1,0 +1,28 @@
+Command line:
+   PNSeqGen_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51698
+
+Thu Apr 24 01:51:57 2014
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 382.833 Meg
+
+ Total Signals          : 16
+ Total Nets             : 17
+ Total Signal Drivers   : 7
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 9
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 100
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 382.833 Meg
+
+Thu Apr 24 01:52:04 2014
+

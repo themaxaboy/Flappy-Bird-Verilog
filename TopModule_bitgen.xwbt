@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=F:\Xilinx\FinalProject\TopModule.ncd
+OUTFILE=F:\Xilinx\FinalProject\TopModule.bit
+FAMILY=Spartan3
+PART=xc3s400-4tq144
+WORKINGDIR=F:\Xilinx\FinalProject
+LICENSE=WebPack
+USER_INFO=210876967_0_0_520
